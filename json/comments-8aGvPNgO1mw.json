@@ -1,0 +1,570 @@
+[
+  {
+    "id": "z23fyxjiysfaxladfacdp430p1wnyomazssemmezpptw03c010c",
+    "user": "starcatify",
+    "date": "3 days ago",
+    "timestamp": 1506045828143,
+    "commentText": "Also, which mainboard are you using here? Thanks again!",
+    "likes": 0,
+    "hasReplies": false,
+    "numberOfReplies": 0
+  },
+  {
+    "id": "z23fyxjiysfaxladfacdp4303znaqqd5chxha4pjw11w03c010c",
+    "user": "starcatify",
+    "date": "3 days ago",
+    "timestamp": 1506045828146,
+    "commentText": "Nice build with the Mini. Could you please post the watercooling component list, would be great! Thanks much!",
+    "likes": 0,
+    "hasReplies": false,
+    "numberOfReplies": 0
+  },
+  {
+    "id": "z23gyl4wfrm0wxkhi04t1aokgvse3z1oa5jyxrg1roflrk0h00410",
+    "user": "Greg Cunningham",
+    "date": "1 month ago",
+    "timestamp": 1503626628148,
+    "commentText": "Thank you so much for a real review. To many YouTube Reviews just tend to be advertisements these days.",
+    "likes": 0,
+    "hasReplies": false,
+    "numberOfReplies": 0
+  },
+  {
+    "id": "z12byxpxdzfodt1qv04cetmgmxbqevxowds",
+    "user": "Slaxmax Media",
+    "date": "3 months ago",
+    "timestamp": 1498356228151,
+    "commentText": "good review",
+    "likes": 0,
+    "hasReplies": false,
+    "numberOfReplies": 0
+  },
+  {
+    "id": "z12xtdxpkpv2tz1yo04cif2ppri4itzjjck",
+    "user": "Wesley Savage",
+    "date": "3 months ago",
+    "timestamp": 1498356228154,
+    "commentText": "good video",
+    "likes": 0,
+    "hasReplies": false,
+    "numberOfReplies": 0
+  },
+  {
+    "id": "z12qudgbtkz3dz1ix04cdnqwukaxwvqwp1g",
+    "user": "Jackson Wilde",
+    "date": "4 months ago",
+    "timestamp": 1495677828156,
+    "commentText": "360mm rad plz! 2 3.5\" drives just because",
+    "likes": 0,
+    "hasReplies": false,
+    "numberOfReplies": 0
+  },
+  {
+    "id": "z124flv4bxmycxyr204cix5wgtuetbziidc",
+    "user": "NC Man",
+    "date": "4 months ago",
+    "timestamp": 1495677828159,
+    "commentText": "Just want to say, you mentioned matx is a 'quirky size, why not go for atx'. Well, its very simple - don't want to give up the additional space. Its not just about the height - in my situation depth matters more than the height. I don't want a case that is 18-19 inches long front to back -that is too long for the shelf on my desk.\n\nAnyway, nice review.",
+    "likes": 0,
+    "hasReplies": false,
+    "numberOfReplies": 0
+  },
+  {
+    "id": "z23kubtqnyvexntmsacdp433ksj5la20rkkyctjkuphw03c010c",
+    "user": "Jose Martinez",
+    "date": "5 months ago",
+    "timestamp": 1493085828161,
+    "commentText": "6:34 Fuck you too.",
+    "likes": 4,
+    "hasReplies": false,
+    "numberOfReplies": 0
+  },
+  {
+    "id": "z12rfnagwlf4utmzf04cdl4hltulhttjwao",
+    "user": "Nittanet Kingprai",
+    "date": "6 months ago",
+    "timestamp": 1490407428163,
+    "commentText": "How much length of radiator +fan and length of vga card ?",
+    "likes": 0,
+    "hasReplies": true,
+    "numberOfReplies": 2,
+    "replies": [
+      {
+        "id": "z12rfnagwlf4utmzf04cdl4hltulhttjwao.1489376513357691",
+        "user": "Nittanet Kingprai",
+        "date": "6 months ago",
+        "timestamp": 1490407428515,
+        "commentText": "How much length of vga it can bit fit if i done with 30mm thick radiator and fans .thankyou",
+        "likes": 0
+      },
+      {
+        "id": "z12rfnagwlf4utmzf04cdl4hltulhttjwao.1489394237076907",
+        "user": "KitGuruTech",
+        "date": "6 months ago",
+        "timestamp": 1490407428517,
+        "commentText": "Click the link to read the review on KitGuru and you will see the spec says 316mm GPU with front fan fitted so deduct 30mm for a radiator and the likely answer is 285mm",
+        "likes": 0
+      }
+    ]
+  },
+  {
+    "id": "z131dh4q2lr5fza5i04chvrjplqhwnu44ms0k",
+    "user": "t103Ninja",
+    "date": "6 months ago",
+    "timestamp": 1490407428167,
+    "commentText": "i want to put a 360 rad in the front and keep the hard drive cage, if i slide the cage all the way over how much space will i have to work with?",
+    "likes": 0,
+    "hasReplies": false,
+    "numberOfReplies": 0
+  },
+  {
+    "id": "z12vffqjtlqwgtttz23pipoxbweqztrih04",
+    "user": "Duane Ford",
+    "date": "7 months ago",
+    "timestamp": 1487988228169,
+    "commentText": "Any temp issues you're having here are probably due to cooling a cpu and 2x gpus on a single slim 240mm radiator.",
+    "likes": 3,
+    "hasReplies": false,
+    "numberOfReplies": 0
+  },
+  {
+    "id": "z13wjtgxmzmujje0222azn2ifpyyhr4yp04",
+    "user": "Emil Fakhruzi Rasyad",
+    "date": "8 months ago",
+    "timestamp": 1485309828171,
+    "commentText": "I like how simple the final result of this build. \nI do have question, will there be any space issue adding 120mm radioator with push fan before going to CPU on the rear?",
+    "likes": 0,
+    "hasReplies": true,
+    "numberOfReplies": 4,
+    "replies": [
+      {
+        "id": "z13wjtgxmzmujje0222azn2ifpyyhr4yp04.1485095845598691",
+        "user": "KitGuruTech",
+        "date": "8 months ago",
+        "timestamp": 1485309828589,
+        "commentText": "I have considered a rear mounted radiator a number of times and it ALWAYS looks like a bad idea. Even if it fits neatly it overhangs the motherboard and gets in the way.",
+        "likes": 0
+      },
+      {
+        "id": "z13wjtgxmzmujje0222azn2ifpyyhr4yp04.1485096457771497",
+        "user": "Emil Fakhruzi Rasyad",
+        "date": "8 months ago",
+        "timestamp": 1485309828591,
+        "commentText": "Is it blocking the CPU or just up to the VRM heatsink?\nI'm worried that having the loop from multi GPU setup directly will not provide adequate cooling to the CPU.",
+        "likes": 0
+      },
+      {
+        "id": "z13wjtgxmzmujje0222azn2ifpyyhr4yp04.1485154802287135",
+        "user": "KitGuruTech",
+        "date": "8 months ago",
+        "timestamp": 1485309828593,
+        "commentText": "That depends on the CPU, GPUs and cooling hardware. We list the temperatures over on KitGuru so click the link below the video and take a look.",
+        "likes": 1
+      },
+      {
+        "id": "z13wjtgxmzmujje0222azn2ifpyyhr4yp04.1485264923094841",
+        "user": "Emil Fakhruzi Rasyad",
+        "date": "8 months ago",
+        "timestamp": 1485309828596,
+        "commentText": "Thanks.",
+        "likes": 0
+      }
+    ]
+  },
+  {
+    "id": "z12pwlj43vyvixi2l22eg32bizacsbboy04",
+    "user": "Odd Mush",
+    "date": "8 months ago",
+    "timestamp": 1485309828174,
+    "commentText": "Do you think there could be issues with HDD cooling since the cage is underneath the PSU shroud? I'm assuming you could remove the plate, put a fan in the bottom position and move the cage back but I'm not sure if that's an ideal solution.",
+    "likes": 0,
+    "hasReplies": true,
+    "numberOfReplies": 1,
+    "replies": [
+      {
+        "id": "z12pwlj43vyvixi2l22eg32bizacsbboy04.1487638673172561",
+        "user": "Djole Radosavljevic",
+        "date": "7 months ago",
+        "timestamp": 1487988228528,
+        "commentText": "I have 2 hdds in there and they can get hot when you are using them both at the same time... the bottom one hits 45c,  on idle they are 30-35c",
+        "likes": 0
+      }
+    ]
+  },
+  {
+    "id": "z12jsfmi0u2dxxl0r225sjjb4xbjfrr1h",
+    "user": "Zuiron",
+    "date": "8 months ago",
+    "timestamp": 1485309828178,
+    "commentText": "is it just me or did you loop the cpu wrong? isnt the input on the cpu block suppose to be at the middle of the block not the side?",
+    "likes": 0,
+    "hasReplies": true,
+    "numberOfReplies": 1,
+    "replies": [
+      {
+        "id": "z12jsfmi0u2dxxl0r225sjjb4xbjfrr1h.1483688312161695",
+        "user": "KitGuruTech",
+        "date": "8 months ago",
+        "timestamp": 1485309828617,
+        "commentText": "It's OK. The pump connects to the radiator out of sight then the radiator connection at top right connects to the CPU block in the middle. You can see the detail much more clearly in the photos on the KitGuru website.",
+        "likes": 0
+      }
+    ]
+  },
+  {
+    "id": "z13yyj2hgwfvt5x4s04cfx3anxqdtb05jp40k",
+    "user": "Brian Wilson",
+    "date": "8 months ago",
+    "timestamp": 1485309828182,
+    "commentText": "Would this be a good case to replace my silverstone tj08e. Thinking of replacing it as its seen better days.",
+    "likes": 0,
+    "hasReplies": false,
+    "numberOfReplies": 0
+  },
+  {
+    "id": "z12yvdbzqzmdzncoi04ccxho5oriivubfh4",
+    "user": "bukan pro",
+    "date": "8 months ago",
+    "timestamp": 1485309828184,
+    "commentText": "excuse me, can i use motherboard MSI B150M Mortar Arctic in this case?",
+    "likes": 0,
+    "hasReplies": true,
+    "numberOfReplies": 1,
+    "replies": [
+      {
+        "id": "z12yvdbzqzmdzncoi04ccxho5oriivubfh4.1483084225306803",
+        "user": "KitGuruTech",
+        "date": "8 months ago",
+        "timestamp": 1485309828523,
+        "commentText": "Micro-ATX motherboard in a Micro-ATX case? sounds good to me",
+        "likes": 4
+      }
+    ]
+  },
+  {
+    "id": "z12iet3pgtriu321j230u5eq3vbayzc4p04",
+    "user": "arch victorious",
+    "date": "9 months ago",
+    "timestamp": 1482631428187,
+    "commentText": "Can someone confirm if it's possible to have 2x 140mm fans without removing the power supply shroud ?",
+    "likes": 0,
+    "hasReplies": false,
+    "numberOfReplies": 0
+  },
+  {
+    "id": "z135wx3x3rucinvpt04cif0rcm3mwjowb5k",
+    "user": "EvilEyeGames",
+    "date": "9 months ago",
+    "timestamp": 1482631428190,
+    "commentText": "What is the total space in front, vertically, for the radiator size? I am curious because I am thinking about toying around with a EK Predator loop for compactness.  I think the 280 unit measures 320mm while the 240 measures 295mm.",
+    "likes": 0,
+    "hasReplies": true,
+    "numberOfReplies": 3,
+    "replies": [
+      {
+        "id": "z135wx3x3rucinvpt04cif0rcm3mwjowb5k.1480333923799760",
+        "user": "KitGuruTech",
+        "date": "9 months ago",
+        "timestamp": 1482631428606,
+        "commentText": "It's a fair question and I am not sure about the answer. Predator is a substantial cooler as it includes the pump and a fan hub with connectors on the end of the radiator. It works very well indeed but is a large chunk of engineering. The 240mm radiator I used fitted with ease and a 280mm would be a close fit - my guess is that Predator 240 would not fit.",
+        "likes": 0
+      },
+      {
+        "id": "z135wx3x3rucinvpt04cif0rcm3mwjowb5k.1480346882821584",
+        "user": "EvilEyeGames",
+        "date": "9 months ago",
+        "timestamp": 1482631428608,
+        "commentText": "Well it looks like you used the alphacool nexxxos ST30 radiator in the build, if I am correct.  That's a 278mm radiator according to the spec sheet.  So the question would be is there an extra 17mm?  It looks like it to me... so that's why I think the predator 240 would fit.",
+        "likes": 0
+      },
+      {
+        "id": "z135wx3x3rucinvpt04cif0rcm3mwjowb5k.1480346996341376",
+        "user": "EvilEyeGames",
+        "date": "9 months ago",
+        "timestamp": 1482631428610,
+        "commentText": "The other problem is how to fill the damn thing once it is in.",
+        "likes": 0
+      }
+    ]
+  },
+  {
+    "id": "z13kc5l4yujnxrbhe04ci1fxtmutvv5giyc0k",
+    "user": "Dean Fenton",
+    "date": "9 months ago",
+    "timestamp": 1482631428211,
+    "commentText": "I like this guy. Simple, straight to the point review. Definitely reconsidering my next build. mATX now seems pointless ha. \n\nVery good review. Thanks!",
+    "likes": 3,
+    "hasReplies": false,
+    "numberOfReplies": 0
+  },
+  {
+    "id": "z13ex1cqmyi1xbhwi04ce5iilsulvx4bnfg",
+    "user": "DHGroove",
+    "date": "10 months ago",
+    "timestamp": 1480039429233,
+    "commentText": "Does the windowless version have sound deadening on both side panels?",
+    "likes": 0,
+    "hasReplies": true,
+    "numberOfReplies": 2,
+    "replies": [
+      {
+        "id": "z13ex1cqmyi1xbhwi04ce5iilsulvx4bnfg.1479453651272289",
+        "user": "KitGuruTech",
+        "date": "10 months ago",
+        "timestamp": 1480039429592,
+        "commentText": "Yes it does",
+        "likes": 3
+      },
+      {
+        "id": "z13ex1cqmyi1xbhwi04ce5iilsulvx4bnfg.1479655091718808",
+        "user": "ILZT",
+        "date": "10 months ago",
+        "timestamp": 1480039429596,
+        "commentText": "How to hear in-game sound then?",
+        "likes": 1
+      }
+    ]
+  },
+  {
+    "id": "z12swxc5swzqu1vga04chliqrqvpev5wdfo",
+    "user": "Nowel Mac",
+    "date": "10 months ago",
+    "timestamp": 1480039429237,
+    "commentText": "Finally, somebody mentioned tempered glass.",
+    "likes": 0,
+    "hasReplies": false,
+    "numberOfReplies": 0
+  },
+  {
+    "id": "z124ij2zdxr4sfhen23yh3dh2yv2irqyz04",
+    "user": "Tom Brown",
+    "date": "10 months ago",
+    "timestamp": 1480039429239,
+    "commentText": "Tempted to get this for an air-cooled build with an i5 4690k, gtx 970 and 8gb of ram. I am currently using the same specs in a mini-itx but my current case (fractal design core 500) is too difficult to upgrade/open regularly and it just is really awkward to do any cable management. The lid especially is the worst lid I have ever come across. To be honest I read a review that said the lid was bad but didn't expect it to be that bad. If the lid wasn't a problem then I would have no issue with the case cause it fits all the hardware that I need and has okay cooling. Might get a low profile CPU Cooler so I can install a second intake fan. Since I only have 1 140mm fan and 1 120mm fan. Trying to decide between a micro-atx build with this new case or get the define nano s and stay with mini-itx. Would prefer small form factor but want proper cooling and airflow above everything.",
+    "likes": 1,
+    "hasReplies": true,
+    "numberOfReplies": 8,
+    "replies": [
+      {
+        "id": "z124ij2zdxr4sfhen23yh3dh2yv2irqyz04.1481481259076778",
+        "user": "arch victorious",
+        "date": "9 months ago",
+        "timestamp": 1482631429680,
+        "commentText": "Tom Brown I'm also trying to determine whether I go for air cooled aesthetically  pleasing nano  S or more practical mini c with better air flow and expansion. How did you moved forward ?",
+        "likes": 0
+      },
+      {
+        "id": "z124ij2zdxr4sfhen23yh3dh2yv2irqyz04.1481485700248919",
+        "user": "Tom Brown",
+        "date": "9 months ago",
+        "timestamp": 1482631429682,
+        "commentText": "I got the Nano S in the end and opted for the Corsair H100i V2 instead of my Cooler Master 212 Hyper EVO since I want to do overclocking and will sell the 212 Hyper EVO to a friend who badly needs a heatsink and is only using a stock AMD heatsink cause he was on a budget system. Overall temps are pretty good in this case and I am getting 35 degrees after playing a few hours of Skyrim Special Edition on ultra graphics at 1080p with a few graphics mods thrown in. Not the most demanding of games but just wanted to give you a bit of an idea what temps are like thanks to the Corsair h100i v2. I have my AIO fans set as exhaust and two red led intake fans at the front and one more exhaust fans at the back. It's been working pretty well so far and I like the window. A nice decent build. Small enough to be portable but big enough so I can upgrade, tweak, or fix things if I need/want to. I would highly suggest the Nano S if you are not going to do SLI/Crossfire or have any other kind of expansion cards. Great for air/water cooling and can take a few hard drives as well.",
+        "likes": 1
+      },
+      {
+        "id": "z124ij2zdxr4sfhen23yh3dh2yv2irqyz04.1483005948521017",
+        "user": "Jay Jay",
+        "date": "8 months ago",
+        "timestamp": 1485309829684,
+        "commentText": "Just be aware the Nano S is a challenge with cooling in general and is really suited to water cooling not so much air. In particular a standard ATX PSU will overheat the GPU unless the GPU is a blower or watercooled. Alternatively you can use a SFF PSU but they run a lot warmer than ATX PSU, putting a lot of hot air in the small case. This may be less of an issue with a SFF long as they have a slightly larger fan. I'm considering getting this case as I can't afford a decent water loop in my nano case.",
+        "likes": 1
+      },
+      {
+        "id": "z124ij2zdxr4sfhen23yh3dh2yv2irqyz04.1483163892258788",
+        "user": "Jay Jay",
+        "date": "8 months ago",
+        "timestamp": 1485309829686,
+        "commentText": "Hi just curious what GPU and PSU are you using in your rig.",
+        "likes": 0
+      },
+      {
+        "id": "z124ij2zdxr4sfhen23yh3dh2yv2irqyz04.1483195760565922",
+        "user": "Tom Brown",
+        "date": "8 months ago",
+        "timestamp": 1485309829688,
+        "commentText": "My graphics card is the Zotac GTX 970 4gb (not the Amp edition) and I have a 500 watt EVGA ATX PSU. I will probably upgrade to a 750 watt modular power supply in the future so I am future proof and a modular PSU fits my case better. Either that or the SF Corsair 600 watt mini PSU.",
+        "likes": 0
+      },
+      {
+        "id": "z124ij2zdxr4sfhen23yh3dh2yv2irqyz04.1483216261719149",
+        "user": "Jay Jay",
+        "date": "8 months ago",
+        "timestamp": 1485309829691,
+        "commentText": "+Tom Brown The reason i'm curious is because with the Nano S case I had a GTX 980Ti G1 with a standard ATX PSU. Sitting so close the PSU was overheating the GPU. I changed to a SFX Silverstone SX600 which worked but it was putting out a fair amount of heat and had a faint buzzing sound. I'd really suggest a SFX-L PSU, the bigger fan the better. Alternatively run a blower GPU or even better a water cooling block on the GPU. It's a nice case but cooling is more difficult due to the confines.",
+        "likes": 1
+      },
+      {
+        "id": "z124ij2zdxr4sfhen23yh3dh2yv2irqyz04.1483216410576062",
+        "user": "Tom Brown",
+        "date": "8 months ago",
+        "timestamp": 1485309829692,
+        "commentText": "I don't think the psu affects the GPU at all. I have the nano s and my gtx 970 Temps are normal. Everything is running fine.",
+        "likes": 0
+      },
+      {
+        "id": "z124ij2zdxr4sfhen23yh3dh2yv2irqyz04.1483216505935110",
+        "user": "Tom Brown",
+        "date": "8 months ago",
+        "timestamp": 1485309829695,
+        "commentText": "One fan is over the psu and isn't. All is good. I'll probably get a 1070 blower style card though for better cooling though the pascal cards are fantastic at keeping cool.",
+        "likes": 0
+      }
+    ]
+  },
+  {
+    "id": "z12jfrwjrt3kcpjlu233zxmgmoa1dj3qu04",
+    "user": "Brandon L.",
+    "date": "10 months ago",
+    "timestamp": 1480039429243,
+    "commentText": "that is normal for the cpu temp to differ from the gpu temps.  you really could use one more 120mm rad in the loop to get temps a little lower under load.",
+    "likes": 1,
+    "hasReplies": false,
+    "numberOfReplies": 0
+  },
+  {
+    "id": "z124irnrsmqbezk0a23dyrbynzjqtdumi",
+    "user": "lolalex556",
+    "date": "10 months ago",
+    "timestamp": 1480039429246,
+    "commentText": "production quality doesn't match up with the subs very nice video",
+    "likes": 7,
+    "hasReplies": false,
+    "numberOfReplies": 0
+  },
+  {
+    "id": "z13vdrdq4vq5e1sfq221yv0wbyy4wvib304",
+    "user": "Chris Burrow",
+    "date": "10 months ago",
+    "timestamp": 1480039429249,
+    "commentText": "Simple case review. Nice size. Mind you, good luck getting a tempered glass case for £70.",
+    "likes": 6,
+    "hasReplies": false,
+    "numberOfReplies": 0
+  },
+  {
+    "id": "z13eivj5axakivwix04cedt4luabcxrj3ik",
+    "user": "Patrik",
+    "date": "10 months ago",
+    "timestamp": 1480039429252,
+    "commentText": "From what material is made that PSU shroud (cover) ??",
+    "likes": 0,
+    "hasReplies": true,
+    "numberOfReplies": 3,
+    "replies": [
+      {
+        "id": "z13eivj5axakivwix04cedt4luabcxrj3ik.1478113807766465",
+        "user": "KitGuruTech",
+        "date": "10 months ago",
+        "timestamp": 1480039429612,
+        "commentText": "Sheet steel, the same as the rest of the chassis.",
+        "likes": 0
+      },
+      {
+        "id": "z13eivj5axakivwix04cedt4luabcxrj3ik.1478114838769158",
+        "user": "Patrik",
+        "date": "10 months ago",
+        "timestamp": 1480039429615,
+        "commentText": "+KitGuruTech Thanks :) and is it removable??",
+        "likes": 1
+      },
+      {
+        "id": "z13eivj5axakivwix04cedt4luabcxrj3ik.1478119621367991",
+        "user": "KitGuruTech",
+        "date": "10 months ago",
+        "timestamp": 1480039429619,
+        "commentText": "No, it is fixed.",
+        "likes": 1
+      }
+    ]
+  },
+  {
+    "id": "z13bt3xyjxm4vvk3e23mhx5wylv0wr0ax04",
+    "user": "jehhova",
+    "date": "10 months ago",
+    "timestamp": 1480039429256,
+    "commentText": "when thier watercooling is prettier than most..",
+    "likes": 0,
+    "hasReplies": false,
+    "numberOfReplies": 0
+  },
+  {
+    "id": "z124jhvygsu4htuql04cdl4r4qvrev0rq3w",
+    "user": "AS sa",
+    "date": "10 months ago",
+    "timestamp": 1480039429258,
+    "commentText": "Is it possible to fit a 360 in the front with the hard drive cage removed and the lid of the PSU shroud removed?",
+    "likes": 2,
+    "hasReplies": true,
+    "numberOfReplies": 6,
+    "replies": [
+      {
+        "id": "z124jhvygsu4htuql04cdl4r4qvrev0rq3w.1478097766791742",
+        "user": "AS sa",
+        "date": "10 months ago",
+        "timestamp": 1480039429811,
+        "commentText": "Specifically a slim one, like a nemesis gts 360",
+        "likes": 1
+      },
+      {
+        "id": "z124jhvygsu4htuql04cdl4r4qvrev0rq3w.1478098368649883",
+        "user": "KitGuruTech",
+        "date": "10 months ago",
+        "timestamp": 1480039429813,
+        "commentText": "No, 280mm is the maximum length. If you got busy cutting away metal a 360mm might be possible but unlikely to be worth the effort.",
+        "likes": 0
+      },
+      {
+        "id": "z124jhvygsu4htuql04cdl4r4qvrev0rq3w.1479575302528926",
+        "user": "Rosewood",
+        "date": "10 months ago",
+        "timestamp": 1480039429815,
+        "commentText": "Afaik, you can take out a panel in the psu shroud to get more room for a rad in the front, and you can slide the cage backwards.",
+        "likes": 2
+      },
+      {
+        "id": "z124jhvygsu4htuql04cdl4r4qvrev0rq3w.1489441949338154",
+        "user": "IPpainting",
+        "date": "6 months ago",
+        "timestamp": 1490407429816,
+        "commentText": "just get the slightly higher define c ..there its supported naturally",
+        "likes": 0
+      },
+      {
+        "id": "z124jhvygsu4htuql04cdl4r4qvrev0rq3w.1489442168264877",
+        "user": "IPpainting",
+        "date": "6 months ago",
+        "timestamp": 1490407429818,
+        "commentText": "+Rosewood\ntaking out the panel on the mini still only gives you the additional clearance for the 280",
+        "likes": 0
+      },
+      {
+        "id": "z124jhvygsu4htuql04cdl4r4qvrev0rq3w.1489446965821405",
+        "user": "Rosewood",
+        "date": "6 months ago",
+        "timestamp": 1490407429820,
+        "commentText": "What would a slim rad hit there? There is room for 3 120 fans at least. The official site does not list 360 rad support tho.",
+        "likes": 0
+      }
+    ]
+  },
+  {
+    "id": "z13xjvo5lz3by1gwy04ceffxsqeitjlyl3w",
+    "user": "DubiousCretin",
+    "date": "10 months ago",
+    "timestamp": 1480039429262,
+    "commentText": "Love your case reviews, you actually build water cooled system in cases to show their full cooling support. Although I must admit this loop looks a bit ugly haha.",
+    "likes": 1,
+    "hasReplies": false,
+    "numberOfReplies": 0
+  },
+  {
+    "id": "z12tyzeqakbwt53tk23shpmqhuzmzrsii04",
+    "user": "AnalogFoundry",
+    "date": "10 months ago",
+    "timestamp": 1480039429264,
+    "commentText": "Love you case reviews...",
+    "likes": 11,
+    "hasReplies": false,
+    "numberOfReplies": 0
+  }
+]
