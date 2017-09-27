@@ -1,10 +1,6 @@
-# Jonathan Adalin
-
 import os
 import json
 from xml.sax.saxutils import escape
-
-# Helper functions
 
 def parse_comment_json(json_file, json_location):
     global conversation_count, formatted_content
@@ -18,15 +14,13 @@ def parse_comment_json(json_file, json_location):
                         formatted_content \
                             += '<s>' \
                             + '<utt uid="1">' \
-                            + comment['commentText'] \
+                            + escape(comment['commentText']).encode('utf-8', 'ignore') \
                             + '</utt>' \
                             + '<utt uid="2">' \
-                            + reply['commentText'] \
+                            + escape(reply['commentText']).encode('utf-8', 'ignore') \
                             + '</utt>' \
                             + '</s>\n'
                         conversation_count += 1
-
-# Main
 
 conversation_count = 0
 formatted_content = ''
@@ -39,8 +33,7 @@ for json_file in json_files:
     parse_comment_json(json_file, json_location)
 
 outputXml = open(os.path.join(outputPath, outputFile), 'w+')
-# outputXml.write(formatted_content.encode('utf-8', 'ignore'))
-outputXml.write(escape(formatted_content.encode('utf-8', 'ignore')))
+outputXml.write(formatted_content)
 outputXml.close()
 
 print 'Gathered ' + str(conversation_count) + ' conversations.'
