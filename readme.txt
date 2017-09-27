@@ -22,3 +22,19 @@ comments-HsRtkLEEfaI.json
 SI VES ESTO EN EL MAR CORRE POR TU VIDA NO HAGAS COMO ESTAS PERSONAS NUEVO
 https://www.youtube.com/watch?v=YMpgmg8SpUM
 comments-YMpgmg8SpUM.json
+
+6 Fenómenos que la Ciencia NO Puede Explicar
+https://www.youtube.com/watch?v=uufzis09Yz0
+comments-uufzis09Yz0.json
+
+RESUELTO El MISTERIO del TRIÁNGULO DE LAS BERMUDAS (2016) elmundoDKBza
+https://www.youtube.com/watch?v=VBM2kIzOj3I
+comments-VBM2kIzOj3I.json
+
+EL EXPERIMENTO PROHIBIDO : Sus padres la encerraron en una habitación durante 13 largos años
+https://www.youtube.com/watch?v=wlqeg1pFNGQ
+comments-wlqeg1pFNGQ.json
+
+Desenmascarando a JOHN TITOR "El Viajero del Tiempo 2036" (Real) | elmundoDKBza
+https://www.youtube.com/watch?v=Cx2sDq53TCs
+comments-Cx2sDq53TCs.json
