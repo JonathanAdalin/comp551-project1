@@ -1,6 +1,7 @@
 import os
 import re
 import operator
+from itertools import izip
 
 output_location = 'out/'
 output_file = 'adalin-burgett-scott_spa.xml'
@@ -9,7 +10,7 @@ with open(os.path.join(output_location, output_file), 'r') as output_file:
     content = output_file.read()
     utterances = re.findall('[0-9]\">(.*?)</utt', content)
 
-print "utterances " + str(len(utterances))
+print "\nUtterances: " + str(len(utterances))
 
 # Words per utterance
 
@@ -28,6 +29,8 @@ for utterance in utterances:
         count["<50"] += 1
     else:
         count[">50"] += 1
+
+print "\nWord count distribution per utterance"
 
 print "<10 " + str(count["<10"])
 print "<20 " + str(count["<20"])
@@ -48,10 +51,23 @@ for utterance in utterances:
             d[word] = 1
 sorted_d = sorted(d.items(), key=operator.itemgetter(1))
 
-print "Most used"
-for i in range(len(sorted_d) - 20, len(sorted_d)):
+print "\nMost used words"
+for i in range(len(sorted_d) - 10, len(sorted_d)):
     print sorted_d[i]
 
-print "Least used"
-for i in range(0, 19):
+# Most popular phrases
+
+d = {}
+for utterance in utterances:
+    words = utterance.split()
+    phrases = [' '.join(pair) for pair in izip(words[:-1], words[1:])]
+    for phrase in phrases:
+        if phrase in d:
+            d[phrase] += 1
+        else:
+            d[phrase] = 1
+sorted_d = sorted(d.items(), key=operator.itemgetter(1))
+
+print "\nMost used phrases"
+for i in range(len(sorted_d) - 20, len(sorted_d)):
     print sorted_d[i]
