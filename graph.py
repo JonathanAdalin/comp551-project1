@@ -3,7 +3,7 @@ import re
 import operator
 from itertools import izip
 
-output_location = 'out/'
+output_location = './'
 output_file = 'adalin-burgett-scott_spa.xml'
 
 with open(os.path.join(output_location, output_file), 'r') as output_file:
