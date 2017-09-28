@@ -24,16 +24,16 @@ def parse_comment_json(json_file, json_location):
 
 conversation_count = 0
 formatted_content = ''
-outputPath = 'out/'
-outputFile = 'youtube_esp.xml'
+output_location = 'out/'
+output_file = 'youtube_spa.xml'
 json_location = 'json/'
 
 json_files = os.listdir(json_location)
 for json_file in json_files:
     parse_comment_json(json_file, json_location)
 
-outputXml = open(os.path.join(outputPath, outputFile), 'w+')
-outputXml.write(formatted_content)
-outputXml.close()
+output_xml = open(os.path.join(output_location, output_file), 'w+')
+output_xml.write(formatted_content)
+output_xml.close()
 
 print 'Gathered ' + str(conversation_count) + ' conversations.'
