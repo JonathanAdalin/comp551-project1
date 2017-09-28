@@ -1,12 +1,17 @@
 import os
 import re
+import matplotlib.pyplot as plt
 
 output_location = 'out/'
 output_file = 'adalin-burgett-scott_spa.xml'
 
 with open(os.path.join(output_location, output_file), 'r') as output_file:
     content = output_file.read()
-    utterances = re.findall('\"1\">.*?</', content)
+    utterances = re.findall('[0-9]\">.*?<', content)
+
+print "utterances " + str(len(utterances))
+
+# Words per utterance
 
 count = {"<10":0, "<20":0, "<30":0, "<40":0, "<50":0, ">50": 0}
 for utterance in utterances:
