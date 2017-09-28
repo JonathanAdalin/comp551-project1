@@ -1,13 +1,13 @@
 import os
 import re
-import matplotlib.pyplot as plt
+import operator
 
 output_location = 'out/'
 output_file = 'adalin-burgett-scott_spa.xml'
 
 with open(os.path.join(output_location, output_file), 'r') as output_file:
     content = output_file.read()
-    utterances = re.findall('[0-9]\">.*?<', content)
+    utterances = re.findall('[0-9]\">(.*?)</utt', content)
 
 print "utterances " + str(len(utterances))
 
@@ -35,3 +35,23 @@ print "<30 " + str(count["<30"])
 print "<40 " + str(count["<40"])
 print "<50 " + str(count["<50"])
 print ">50 " + str(count[">50"])
+
+# Most popular words
+
+d = {}
+for utterance in utterances:
+    words = utterance.split()
+    for word in words:
+        if word in d:
+            d[word] += 1
+        else:
+            d[word] = 1
+sorted_d = sorted(d.items(), key=operator.itemgetter(1))
+
+print "Most used"
+for i in range(len(sorted_d) - 20, len(sorted_d)):
+    print sorted_d[i]
+
+print "Least used"
+for i in range(0, 19):
+    print sorted_d[i]
